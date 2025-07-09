@@ -1,0 +1,11 @@
+# robots.txt for CM8 Online Casino
+
+User-agent: *
+Allow: /
+
+# Exclude specific paths or files if necessary (e.g., admin panels, sensitive data)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Specify your sitemap location
+Sitemap: https://littlendaba.design/sitemap.xml
